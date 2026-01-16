@@ -1,12 +1,12 @@
 # 👋 Sobre mí
 
-Estoy empezando mi camino como desarrollador en Python. No corro para mostrar más de lo que sé; prefiero avanzar con bases firmes y entender cada concepto antes de avanzar. Cuando algo no me queda claro, me gusta investigarlo a fondo y entender cómo funciona.
+Estoy empezando mi camino como desarrollador. No corro para mostrar más de lo que sé; prefiero avanzar con bases firmes y entender cada concepto antes de avanzar. Cuando algo no me queda claro, me gusta investigarlo a fondo para entender cómo funciona.
 
-Me siento cómodo trabajando con otros. Si algo no fluye en el equipo, trato de ayudar a que las cosas se ordenen y el trabajo avance. No lo siento como una obligación, es simplemente mi forma de trabajar. Para mí, el código limpio es importante, pero también lo es cómo nos organizamos y nos comunicamos.
+Me siento cómodo trabajando con otros. Si algo no fluye en el equipo, trato de ayudar a que las cosas se ordenen y el trabajo avance. No lo siento como una obligación, es simplemente mi forma de trabajar. Para mí, el código limpio es importante, pero también lo es cómo nos organizamos y nos comunicamos. Por eso siento un interés real en áreas como soporte técnico, operaciones e infraestructura, ya que considero importante entender cómo funcionan las cosas desde la base y no solo desde el desarrollo.
 
 Aprendo haciendo: si no conozco algo, lo investigo, lo pruebo y lo vuelvo a intentar hasta entenderlo. Me adapto rápido y puedo avanzar solo cuando hace falta, pero siempre manteniendo al equipo presente.
 
-Todavía soy junior, y estoy enfocado en construir mi nivel con fundamentos sólidos y criterio, aprendiendo a aportar valor real desde donde me encuentro.
+Todavía soy junior y mi objetivo es seguir construyendo sobre una base sólida, aprendiendo a aportar valor real desde donde me encuentro.
 
 ---
 
